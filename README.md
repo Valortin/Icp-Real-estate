@@ -1,17 +1,4 @@
 
-A DAO'S Liquidity and interoperability protocol that provides secure bridging of crypto assets and data across blockchains.
-
-<h3>Smart Contracts</h3>
-
-<p>To facilitate testing the dApp, we deployed test tokens on the chains supported. Here are the details of the tokens</p>
-
-<h4>USDT</h4>
-
-<table class="responsive"><thead>
-<tr>
-<th>Chain</th>
-<th>Token Address</th>
-</tr>
 </thead><tbody>
 <tr>
 <td>Avalanche Fuji</td>
