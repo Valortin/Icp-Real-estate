@@ -1,24 +1,4 @@
 
-<td>BSC Testnet</td>
-<td>0xA17389EAAA6Eb19b6f288cD0a555137E13a947a1</td>
-</tr>
-</tbody></table>
-
-<h3>Pools with CCIP and Automation implementation</h3>
-
-<p>The following are the smart contracts of ZKLiquid liquidity pools with CCIP implementation and Automation for token transfer across multiple chains</p>
-
-<table class="responsive"><thead>
-<tr>
-<th>Chain</th>
-<th>Pool Address</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Avalanche Fuji</td>
-<td>0x96120cBa6C7D933e06C290cC0BBE41ce17194c1F</td>
-</tr>
-<tr>
 <td>Sepolia</td>
 <td>0x2B5474bCCCae8C9cce8D70Ed0e24B8D3797b2BAD</td>
 </tr>
