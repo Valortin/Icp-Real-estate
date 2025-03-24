@@ -1,26 +1,4 @@
 
-<tr>
-<th>Chain</th>
-<th>Token Address</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>Avalanche Fuji</td>
-<td>0xE94A73848224907453e872D20078E0C4621BbA92</td>
-</tr>
-<tr>
-<td>Sepolia</td>
-<td>0x0341Fb8609f1bA3bDeE99125291615BEAa3FAE15</td>
-</tr>
-<tr>
-<td>Polygon Amoy</td>
-<td>0x46b74833C07800953250Ab8dc192ce830AA3fc64</td>
-</tr>
-<tr>
-<td>Arbitrum Sepolia</td>
-<td>0xec1804F0DE8fbB3689D4b13BfB8035B77283a6D1</td>
-</tr>
-<tr>
 <td>BSC Testnet</td>
 <td>0xA17389EAAA6Eb19b6f288cD0a555137E13a947a1</td>
 </tr>
