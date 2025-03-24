@@ -102,19 +102,3 @@ A DAO'S Liquidity and interoperability protocol that provides secure bridging of
 <p><a href="https://app.zkliquid.io/swap/faucet" rel="nofollow">Link to the faucet were users can claim test tokens </a></p>
 
 
-
-<h3>Automation Upkeep Links</h3>
-
-<p>Here are the links to all the automation Upkeep</p>
-
-<p><a href="https://automation.chain.link/fuji/106027150857364632869608140183578825125025803458632955935611761132257636792444" rel="nofollow">Avalanche Fuji Upkeep</a></p>
-
-<p><a href="https://automation.chain.link/sepolia/73995990476057410205781183203407082810119875122147889063888769038404446032432" rel="nofollow">Ethereum Sepolia</a></p>
-
-<p><a href="https://automation.chain.link/polygon-amoy/93287502080700522953741115199749043117871293696643338918507094637535939021348" rel="nofollow">Polygon Amoy</a></p>
-
-<p><a href="https://automation.chain.link/arbitrum-sepolia/68408332778423396360932514219924445559798772749079673673018879927630308945155" rel="nofollow">Arbitrum Sepolia</a></p>
-
-<p><a href="https://automation.chain.link/bnb-chain-testnet/106430094382011546334883072159071511047499894505102472908391270769026874699211" rel="nofollow">BSC Testnet</a></p>
-
-</div>
